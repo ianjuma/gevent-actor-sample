@@ -1,0 +1,6 @@
+Celery
+gevent
+celery[redis]
+celery[gevent]
+python-dotenv
+apscheduler==3.2.0
